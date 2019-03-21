@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "694762840152",
+    "firebase_url": "https://foodable-order-app.firebaseio.com",
+    "project_id": "foodable-order-app",
+    "storage_bucket": "foodable-order-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694762840152:android:7ba441ef7c34e6d7",
+        "android_client_info": {
+          "package_name": "fdble.order.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694762840152-tuimp6c7qf9mpchjbhhk1pne8jm542tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI8WSZZ4vk1GUqM523rXBCBcDu2pZ98MQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
