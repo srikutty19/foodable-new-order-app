@@ -1,7 +1,7 @@
 
 var krms_config ={			
-	'ApiUrl' : "http://rapidtest.ga/restomulti/merchantapp/api",	
+	'ApiUrl' : "http://athavtech.com/AppProjects/foodable/merchantapp/api",	
 	'DialogDefaultTitle' : " Foodable MERCHANT",
 	'pushNotificationSenderid' : "694762840152",
-	'APIHasKey' : "e7fd6af77a1d45f791880ddebaee29f4"
+	'APIHasKey' : "53aaa994fe6a6ff0f6f141e9e6468b67"
 };
